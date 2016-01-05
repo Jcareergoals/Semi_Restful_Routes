@@ -1,0 +1,23 @@
+	* {
+		margin: 0px; 
+		padding: 0px; 
+		font-family: tahoma; 
+	}
+	.container {
+		max-width: 960px; 
+		margin: 40px auto; 
+		border: 1px solid gray; 
+		min-height: 500px;  
+		padding: 20px; 
+	}
+	span {
+		color: red; 
+	}	
+	td input {
+		padding: 2px 5px;
+		margin: 0px 5px;  
+	}
+	.link {
+		text-decoration: underline;
+		line-height: 30px;   
+	}
